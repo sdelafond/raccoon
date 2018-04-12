@@ -1,0 +1,5 @@
+python-raccoon (2.1.5-1) unstable; urgency=medium
+
+  * First release (Closes: #895510)
+
+ -- Sebastien Delafond <seb@debian.org>  Thu, 12 Apr 2018 10:11:30 +0200
