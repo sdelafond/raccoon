@@ -12,7 +12,7 @@ Vcs-Browser: https://salsa.debian.org/debian/python-raccoon
 
 Package: python3-raccoon
 Architecture: all
-Depends: ${misc:Depends}, ${python3:Depends}
+Depends: ${misc:Depends}, ${python3:Depends}, python3-pkg-resources
 Description: Python DataFrame with fast insert and appends (Python 3)
  Lightweight DataFrame and Series implementation inspired by the
  phenomenal Pandas package for the one use case where Pandas is known
