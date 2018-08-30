@@ -1,3 +1,9 @@
+python-raccoon (2.1.5-3) unstable; urgency=medium
+
+  * Correct debian/watch
+
+ -- Sebastien Delafond <seb@debian.org>  Thu, 30 Aug 2018 07:49:08 +0200
+
 python-raccoon (2.1.5-2) unstable; urgency=medium
 
   * Depend on python3-pkg-resources (Closes: #896376)
